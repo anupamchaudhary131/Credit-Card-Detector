@@ -20,7 +20,7 @@ def handlecredentials(request):
                 "EXP_Date":"01/25"
             }
     ,
-            "Anpuam Chaudhary":{
+            "Anupam Chaudhary":{
                 "CVV":101,
                 "Credit_Card_number":101010101010,
                 "EXP_Date":"01/25"
