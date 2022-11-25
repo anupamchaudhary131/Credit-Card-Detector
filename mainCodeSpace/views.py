@@ -14,33 +14,33 @@ def ERR(request):
 def handlecredentials(request):
     if request.method=="POST":
         dictionary = {
-            "Anubhav":{
+            "Anubhav Singh":{
+                "CVV":102,
+                "Credit_Card_number":101010101011,
+                "EXP_Date":"01/25"
+            }
+    ,
+            "Anpuam Chaudhary":{
                 "CVV":101,
-                "Credit_Card_number":9876543298765432,
+                "Credit_Card_number":101010101010,
                 "EXP_Date":"01/25"
             }
     ,
-            "Anpuam":{
-                "CVV":386,
-                "Credit_Card_number":1234567812345678,
+            "Arpit Mishra":{
+                "CVV":103,
+                "Credit_Card_number":101010101012,
                 "EXP_Date":"01/25"
             }
     ,
-            "Tanishq":{
-                "CVV":141,
-                "Credit_Card_number":1234567891234567,
+            "Bharat Prajapati":{
+                "CVV":104,
+                "Credit_Card_number":101010101013,
                 "EXP_Date":"01/25"
             }
     ,
-            "Shubh":{
-                "CVV":242,
-                "Credit_Card_number":4152789636521452,
-                "EXP_Date":"01/25"
-            }
-    ,
-            "Shreyas":{
-                "CVV":382,
-                "Credit_Card_number":7845895645125623,
+            "Jagannath Pandey":{
+                "CVV":105,
+                "Credit_Card_number":101010101014,
                 "EXP_Date":"01/25"
             }
         }
